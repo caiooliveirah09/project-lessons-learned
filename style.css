@@ -1,0 +1,48 @@
+h1, h2 {
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+}
+
+#cabecalho {
+  background-color: red;
+  top: 0;
+  position: fixed;
+  width: 100vw;
+}
+
+#titulo {
+  margin: 0;
+  color: white;
+}
+
+table,
+th,
+td {
+  margin: 5px;
+  padding: 2px;
+  border: 2px red solid;
+}
+
+p {
+  line-height: 50px;
+}
+
+.lado-esquerdo {
+  width: 25vw;
+  display: inline-block;
+}
+
+.lado-direito {
+  width: 25vw;
+  display: inline-block;
+}
+
+img {
+  margin-top: 70px;
+  height: 200px;
+}
